@@ -16,7 +16,7 @@
   ```
   
 ### Compiled Launcher files
-##### compile it yourself
+##### https://github.com/pokballs/DekaronLauncher/releases/tag/1.0.0
  - dekaron.ico
  - DekaronLauncher.exe
  - DekaronLauncher.exe.config
